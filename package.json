@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-profile-scraper",
+  "name": "@vinzcelavi/linkedin-profile-scraper",
   "version": "2.3.1",
   "description": "LinkedIn profile scraper returning structured profile data in JSON. Works in 2020.",
   "main": "dist/index.js",
@@ -80,5 +80,17 @@
     "testPathIgnorePatterns": [
       ".e2e.test.ts"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinzcelavi/linkedin-profile-scraper-api.git"
+  },
+  "keywords": [
+    "linkedin"
+  ],
+  "author": "vinzcelavi",
+  "bugs": {
+    "url": "https://github.com/vinzcelavi/linkedin-profile-scraper-api/issues"
+  },
+  "homepage": "https://github.com/vinzcelavi/linkedin-profile-scraper-api#readme"
 }
